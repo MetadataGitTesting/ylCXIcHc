@@ -1,1 +1,1 @@
-Select * from blah
+Select * from blah;
